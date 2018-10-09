@@ -1,2 +1,0 @@
-def ds():
-    pass
